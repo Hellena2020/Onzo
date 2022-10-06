@@ -16,11 +16,15 @@ body {background-color:paleturquoise !important;
             border-radius 50px;
         }
 .container{ 
-    background-color: azure;
-    margin: auto;
-    width: 500px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    
 }
-.box{  margin-top: 50px;
+.box{ margin-top: 50px;
     padding: 30px;
     box-shadow: 3px 4px 3px; gray
      text-align: "center";
@@ -30,12 +34,11 @@ body {background-color:paleturquoise !important;
      a{
         Text text-decoration: none;
         .apple{
-            colour: limegreen;
+            color: lawngreen;
         }
         .mango{ 
             colour:yellow;
-        #hobbie{
+        # hobbie{
             color:blue;
      
-
 }
